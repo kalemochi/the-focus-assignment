@@ -1,14 +1,89 @@
+
 body {
-        width: 1600px;
-        
-        height:1600px;
+
+   width: 1600px;
+   height: 2494px;
 }
-div {
-    width:1600px;
-    margin:680px;
+
+.Logo {
+    text-align: center;
+    margin-top: -600px;
+    margin-left: -200px;
+    position: static;
+}
+
+.Focus {
+   margin-top: -750px;
+   position: static;
+   margin-left: 760px;
+}
+
+.second {
+    margin-left: 500px;
+}
+
+.iphone {
+    margin-top: 80px;
+}
+.background{
     
     
+    
 }
+
+main {
+   text-align: center;
+   position:static;
+   left: 100px;
+}
+
+footer {
+    width: 1600px;
+    margin: 200px;
+}
+
+h1 {
+   font-size: 75px;
+   font-style: normal;
+   font-family: Pacifico, sans-serif;
+}
+
+h2 {
+   font-size: 36px;
+   font-style: normal;
+   font-family: Raleway, sans-serif;
+   font-weight: lighter;
+}
+
+h3 {
+    font-size: 24px;
+    font-style: normal;
+    font-family: raleway, sans-serif;
+}
+
+h4 {
+   font-size: 22px;
+   font-style: normal;
+   font-family: raleway, sans-serif;
+   font-weight: bold;
+   margin-left: 280px;
+}
+
+p {
+   font-size: 16pt;
+   font-style: normal;
+   font-family: 'Helvetica Neue', sans-serif;
+   position: relative;
+   text-align: justify;
+   margin-left: 280px;
+}
+
+.Whitedot {
+    margin-left: 480px;
+    margin-top: 200px;
+}
+
+
 
 
 
