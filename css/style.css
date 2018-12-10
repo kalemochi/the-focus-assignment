@@ -70,18 +70,18 @@ h4 {
 }
 
 .iphone {
-   text-align:center;
-   margin-top: 40px; 
+   text-align: center;
+   margin-top: 40px;
 }
 
 .whitedot1 {
-   text-align:center;
+   text-align: center;
    margin-top: -620px;
    margin-left: 120px;
 }
 
 .whitedot2 {
-   text-align:center;
+   text-align: center;
    margin-top: 60px;
    margin-left: -160px;
 }
@@ -93,19 +93,19 @@ h4 {
 }
 
 .blackdot {
-   text-align:center;
+   text-align: center;
    margin-top: -140px;
    margin-left: 120px;
 }
 
 .cursor {
-   text-align:center;
+   text-align: center;
    margin-top: -20px;
    margin-left: 130px;
 }
 
 .line {
-   text-align:center;
+   text-align: center;
    margin-top: -10px;
    margin-left: 265px;
 }
@@ -125,7 +125,7 @@ h4 {
 .Feature3 {
    margin-top: 100px;
    margin-right: 1040px;
-   margin-left: 0px;
+   margin-left: 0;
 }
 
 .Feature4 {
@@ -176,23 +176,97 @@ h4 {
 }
 
 .Fourth {
-    margin-left: 400px;
+   margin-left: 400px;
 }
 
 .name {
-    margin-left: 460px;
-    font-weight: bold;    
+   margin-left: 460px;
+   font-weight: bold;
 }
 
 .person {
-    margin-left: 915px;
+   margin-left: 915px;
    margin-top: -240px;
    margin-bottom: 100px;
 }
 
 .cursor3 {
-    margin-top: -140px;
-    margin-left: 925px;
-    margin-bottom: 100px;
+   margin-top: -140px;
+   margin-left: 925px;
+   margin-bottom: 100px;
 }
 
+.sayhi {
+   margin-top: 300px;
+   margin-left: 680px;
+   font-weight: bold;
+}
+
+.lastheading {
+   margin-left: 300px;
+}
+
+.twitter {
+   margin-left: 680px;
+}
+
+.fb {
+   margin-top: -37px;
+   margin-left: 730px;
+}
+
+.pin {
+   margin-top: -37px;
+   margin-left: 780px;
+}
+
+.google {
+   margin-top: -47px;
+   margin-left: 830px;
+}
+
+.link {
+   margin-top: -37px;
+   margin-left: 880px;
+}
+
+.youtube {
+   margin-top: -37px;
+   margin-left: 930px;
+}
+
+.cursor4 {
+   margin-top: -10px;
+   margin-left: 800px;
+}
+
+.contact {
+   margin-top: 100px;
+   margin-left: 100px;
+}
+
+.dl {
+   margin-top: -17px;
+   margin-left: 200px;
+}
+
+.press {
+   margin-top: -17px;
+   margin-left: 310px;
+}
+
+.email {
+   margin-top: -17px;
+   margin-left: 400px;
+}
+
+.support {
+   margin-top: -15px;    
+   margin-left: 500px;
+}
+
+.pp {
+   margin-top: -15px;
+   margin-left: 600px;   
+    
+}
