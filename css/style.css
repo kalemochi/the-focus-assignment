@@ -1,45 +1,22 @@
 
 body {
-
    width: 1600px;
    height: 2494px;
-}
-
-.Logo {
-    text-align: center;
-    margin-top: -600px;
-    margin-left: -200px;
-    position: static;
-}
-
-.Focus {
-   margin-top: -750px;
-   position: static;
-   margin-left: 760px;
-}
-
-.second {
-    margin-left: 500px;
-}
-
-.iphone {
-    margin-top: 80px;
-}
-.background{
-    
-    
-    
-}
-
-main {
-   text-align: center;
-   position:static;
-   left: 100px;
+   position: relative;
 }
 
 footer {
-    width: 1600px;
-    margin: 200px;
+   width: 1600px;
+   margin: 200px;
+}
+
+p {
+   font-size: 16pt;
+   font-style: normal;
+   font-family: 'Helvetica Neue', sans-serif;
+   position: relative;
+   text-align: left;
+   margin-left: 280px;
 }
 
 h1 {
@@ -56,9 +33,9 @@ h2 {
 }
 
 h3 {
-    font-size: 24px;
-    font-style: normal;
-    font-family: raleway, sans-serif;
+   font-size: 24px;
+   font-style: normal;
+   font-family: raleway, sans-serif;
 }
 
 h4 {
@@ -69,21 +46,141 @@ h4 {
    margin-left: 280px;
 }
 
-p {
-   font-size: 16pt;
-   font-style: normal;
-   font-family: 'Helvetica Neue', sans-serif;
+.Logo {
+   text-align: center;
+   margin-top: -600px;
+   margin-left: -200px;
    position: relative;
-   text-align: justify;
+}
+
+.Focus {
+   margin-top: -80px;
+   position: relative;
+   margin-left: 760px;
+}
+
+.second {
+   margin-top: 80px;
+   margin-left: 500px;
+}
+
+.arrow {
+   margin-top: 80px;
+   margin-left: 775px;
+}
+
+.iphone {
+   text-align:center;
+   margin-top: 40px; 
+}
+
+.whitedot1 {
+   text-align:center;
+   margin-top: -620px;
+   margin-left: 120px;
+}
+
+.whitedot2 {
+   text-align:center;
+   margin-top: 60px;
+   margin-left: -160px;
+}
+
+.whitedot3 {
+   text-align:center;
+   margin-top: 200px;
+   margin-left: -160px;
+}
+
+.blackdot {
+   text-align:center;
+   margin-top: -140px;
+   margin-left: 120px;
+}
+
+.cursor {
+   text-align:center;
+   margin-top: -20px;
+   margin-left: 130px;
+}
+
+.line {
+   text-align:center;
+   margin-top: -10px;
+   margin-left: 265px;
+}
+
+.Feature1 {
+   margin-top: -200px;
+   margin-right: 1040px;
+   margin-left: -100px;
+}
+
+.Feature2 {
+   margin-top: -120px;
+   margin-left: 750px;
+   margin-right: 200px;
+}
+
+.Feature3 {
+   margin-top: 100px;
+   margin-right: 1040px;
+   margin-left: -100px;
+}
+
+.Feature4 {
+   margin-top: -130px;
+   margin-right: 200px;
+   margin-left: 750px;
+}
+
+.Getapp {
+   margin-top: 200px;
+   margin-left: -160px;
+   margin-right: 860px;
+}
+
+.Apple {
+   margin-left: 120px;
+}
+
+.Android {
+   margin-left: 200px;
+   margin-top: -70px;
+}
+
+.Windows {
    margin-left: 280px;
+   margin-top: -70px;
 }
 
-.Whitedot {
-    margin-left: 480px;
-    margin-top: 200px;
+.Cursor2 {
+    margin-left: 315px;
+    margin-top: -30px;
 }
 
+.Video {
+    margin-top: -240px;
+    margin-left: 860px;
+}
 
+.play {
+    margin-top: -70px;
+    margin-left: 880px;
+}
 
+.playbar {
+   margin-top: -46px;
+   margin-left: 970px;
+   margin-bottom: 150px;
+}
 
+.Fourth {
+    margin-left: 280px;
+}
+
+.name {
+    margin-left: 340px;
+    font-weight: bold;    
+}
 
